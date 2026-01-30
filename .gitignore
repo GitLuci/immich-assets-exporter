@@ -1,3 +1,6 @@
 /.idea
 /.venv/
 /.env
+/immich_integration/__pycache__
+/load_screen_data/__pycache__
+immich_integration/test_file.zip
