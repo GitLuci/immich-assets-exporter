@@ -9,7 +9,7 @@
 ### After that you will be able to run the code.
 
 ## Disclaimer
-### Since the project is just starting follow the next steps : 
+### Since the project is just starting this are the next steps : 
 #### 1: Add the integrate code with Immich API and initial tests
 #### 2: Add Streamlit FE 
 #### ...
